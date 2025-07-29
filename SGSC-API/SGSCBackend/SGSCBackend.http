@@ -1,0 +1,6 @@
+@SGSCBackend_HostAddress = http://localhost:5057
+
+GET {{SGSCBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
